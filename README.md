@@ -1,4 +1,4 @@
-<h2 align="left">Hello World!, My name is Bikash Kr Singha pursing B.Tech in Electrical Engineering, Passonate about technology</h2>
+<h2 align="left">Hello World!, I'm Bikash pursing B.Tech in Electrical Engineering</h2>
 
 ###
 
