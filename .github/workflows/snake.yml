@@ -58,7 +58,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: bikashsingha7
+          github_user_name: ${{ github.repository_owner }}
 
 
 
@@ -74,7 +74,7 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: bikashsingha7
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 
